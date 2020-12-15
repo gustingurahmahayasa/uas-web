@@ -1,0 +1,11 @@
+.jumbotron {
+	background-image: url(modul/assets/kerajinan.jpg);
+	background-size: cover;
+	height: 770px;
+	text-align: center;
+
+}
+
+.jumbotron .display-4 {
+	color: white;
+}

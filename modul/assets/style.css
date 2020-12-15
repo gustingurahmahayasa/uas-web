@@ -1,0 +1,16 @@
+.nav-link:hover{
+    background-color: gray;
+}
+
+thead tr{
+    text-align: center;
+}
+
+tbody td{
+    text-align: center;
+}
+
+.container {
+    width: 25%;
+    margin-top: 9%;
+}
